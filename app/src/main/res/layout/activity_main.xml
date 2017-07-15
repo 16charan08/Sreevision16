@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    android:id="@+id/root"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/transparent"
+    android:orientation="vertical">
+    <android.support.design.widget.CoordinatorLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/splash_bg">
+        <android.support.v4.view.ViewPager
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/pager"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+
+        </RelativeLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal|bottom"
+        >
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="120dp"
+            >
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:padding="0dp"
+                android:layout_marginBottom="-43dp"
+                android:src="@drawable/welcome_bottom_left"
+                android:cropToPadding="true"/>
+
+            <ImageView
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_marginBottom="-28dp"
+                android:padding="0dp"
+                android:src="@drawable/welcome_botton_right" />
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="0dp"
+                android:layout_marginTop="40dp"
+                android:layout_marginLeft="30dp"
+                android:orientation="horizontal">
+
+                <ImageView
+                    android:layout_width="10dp"
+                    android:layout_height="10dp"
+                    android:id="@+id/imageView4"
+                    android:layout_marginRight="15dp"
+                    android:src="@drawable/dot_selected_2x" />
+                <ImageView
+                    android:layout_width="10dp"
+                    android:layout_height="10dp"
+                    android:layout_marginRight="15dp"
+                    android:id="@+id/imageView5"
+                    android:src="@drawable/dot_2x"
+                    />
+                <ImageView
+                    android:layout_width="10dp"
+                    android:layout_height="10dp"
+                    android:layout_marginRight="15dp"
+                    android:id="@+id/imageView6"
+                    android:src="@drawable/dot_2x" />
+                <ImageView
+                    android:layout_width="10dp"
+                    android:layout_height="10dp"
+                    android:layout_marginRight="15dp"
+                    android:id="@+id/imageView8"
+                    android:src="@drawable/dot_2x"
+                    />
+
+            </LinearLayout>
+
+        </RelativeLayout>
+    </LinearLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingLeft="1dp"
+        android:paddingRight="1dp"
+        android:paddingTop="1dp"
+        android:background="@drawable/shadow">
+        <View
+            android:layout_below="@+id/toolbar"
+            android:layout_gravity="top"
+            android:layout_width="match_parent"
+            android:layout_height="5dp"
+            android:background="@drawable/shadow"
+            />
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            app:contentInsetStart="0dp"
+            style="@style/Toolbar"
+            android:layout_height="?attr/actionBarSize"
+            >
+
+            <ImageView
+                android:id="@+id/content_hamburger"
+                style="@style/ImageView.Hamburger"
+                android:src="@drawable/ic_menu" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:id="@+id/main_actname"
+                android:textColor="@color/white"
+                android:textSize="@dimen/guillotine_item_text_size" />
+        </android.support.v7.widget.Toolbar>
+    </RelativeLayout>
+
+
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/fab2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="160dp"
+            android:layout_gravity="bottom|end"
+            android:layout_marginRight="@dimen/fab_margin"
+            android:visibility="invisible"
+            app:backgroundTint="@color/colorFAB2"
+            app:elevation="6dp"
+            app:pressedTranslationZ="12dp"
+            android:src="@drawable/ic_done" />
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/fab1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="90dp"
+            android:layout_gravity="bottom|end"
+            android:layout_marginRight="@dimen/fab_margin"
+            android:visibility="invisible"
+            app:elevation="6dp"
+            app:backgroundTint="@color/colorFAB1"
+            app:pressedTranslationZ="12dp"
+            android:src="@drawable/ic_message" />
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/fab"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|end"
+            app:elevation="6dp"
+            app:backgroundTint="@color/colorAccent"
+            app:pressedTranslationZ="12dp"
+            android:layout_margin="@dimen/fab_margin"
+            android:src="@drawable/ic_add" />
+
+    </android.support.design.widget.CoordinatorLayout>
+</FrameLayout>
+

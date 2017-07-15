@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:padding="5dp"
+    tools:context="com.app.sreevision.sv16.Eventlog"
+    android:orientation="vertical"
+    tools:ignore="MissingPrefix">
+
+    <include android:id="@+id/app_bar"
+        layout="@layout/app_bar"/>
+
+    <View
+        android:layout_below="@+id/app_bar"
+        android:layout_width="match_parent"
+        android:layout_height="5dp"
+        android:id="@+id/shadow"
+        android:background="@drawable/shadow" />
+
+    <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:paddingLeft="9dp"
+            android:paddingRight="2dp">
+
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="25dp"
+                android:text="ROBOVEDA"
+                android:textColor="@color/white"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textSize="25dp"
+                fontpath = "fonts/JosefinSans-SemiBold.ttf"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="1dp"
+                android:text="Explore the Unwritten Lore"
+                android:textColor="@color/red"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textSize="18dp" />
+
+
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/signatureEventList"
+                android:layout_width="match_parent"
+                android:layout_height="190dp"
+                android:minHeight="300dp"
+                android:layout_marginTop="5dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="0dp"
+                android:text="Info Edge"
+                android:textColor="@color/white"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textSize="25dp"
+                fontpath = "fonts/JosefinSans-SemiBold.ttf"/>
+            <TextView
+                fontpath = "fonts/JosefinSans-Regular.ttf"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="There is No Digital Strategy Any More!!"
+                android:textColor="@color/red"
+                android:textSize="18dp"
+                android:layout_marginTop="0dp"
+                 />
+
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/formalEventList"
+                android:layout_width="match_parent"
+                android:layout_height="190dp"
+                android:minHeight="300dp"
+                android:layout_marginTop="5dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:text="Olympus"
+                android:textColor="@color/white"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textSize="25dp"
+                fontpath = "fonts/JosefinSans-SemiBold.ttf"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="1dp"
+                android:text="Where Sports meet the spirit"
+                android:textColor="@color/red"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textSize="18dp" />
+
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/informalEventList"
+                android:layout_width="match_parent"
+                android:layout_height="190dp"
+                android:minHeight="300dp"
+                android:layout_marginTop="5dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:text="Non-Tech"
+                android:textColor="@color/white"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textSize="25dp"
+                fontpath = "fonts/JosefinSans-SemiBold.ttf"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="1dp"
+                android:text="Anyone! Anywhere! Anytime!"
+                android:textColor="@color/red"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textSize="18dp" />
+
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/onlineEventList"
+                android:layout_width="match_parent"
+                android:layout_height="190dp"
+                android:minHeight="300dp"
+                android:layout_marginTop="5dp"/>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

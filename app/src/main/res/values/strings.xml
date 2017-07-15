@@ -1,0 +1,323 @@
+<resources>
+    <string name="app_name">sreevision\'16</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-8342113655467030/3683718904</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="home">HOME</string>
+    <string name="event">EVENT LOG</string>
+    <string name="schedule">SCHEDULE</string>
+    <string name="updates">UPDATES</string>
+    <string name="favorites">FAVORITES</string>
+    <string name="sponsors">SPONSORS</string>
+    <string name="contacts">CONTACTS</string>
+    <string name="developers">DEVELOPERS</string>
+
+    <string name="desc_ranaveera">Proven to be the best crowd pulling event of the symposium,
+        Ranaveera needs no introduction! Bring in a perfect combination of weapons and shields to
+        resist the force of the powerful opponents. Build a warrior like robot to sustain every blow
+        on the battlefield until the opponent descends.
+        Engage in the battle as it’s now safe to turn off your opponent violently in this exciting arena!
+ \n\nNOTE:\n
+Its mandatory to view the rulebook.
+
+ \n\nRegistration Fee:
+\nRs.300 (for all events except Ranaveera)
+\nRs.2000 (for all events)
+
+    </string>
+    <string name="rules_ranaveera">Please Click The Button Below To Look At the Rules</string>
+    <string name="prize_ranaveera">Exciting Prizes and Goodies</string>
+
+
+    <string name="desc_golaa">Devoted soccer fan? Ace in robotics? Fusing these two splendid phenomena is the beginning of the much awaited event Goalaa. Build a robot to drive the balls all the way across the field to the goal post in the stipulated time. To add a little spice to the mix, there is an addition of obstacles standing between you and your success. Pave the way to experience the most vivacious event of the technical gala and become the new crowned head by scoring the highest number of goals.
+\n\nNOTE:\n
+Its mandatory to view the rulebook.
+\n\nRegistration Fee:
+\nRs.300 (for all events except Ranaveera)
+\nRs.2000 (for all events)
+</string>
+    <string name="rules_golaa">Click The Button Below to View the Rule Book And Also For Registration</string>
+    <string name="prize_golaa">Exciting Prizes and Goodies</string>
+
+    <string name="desc_gati">The need for speed is entrancing! To provide a platform for all such speed
+        addicts, we have put together this perfect event.Like super cars, you need to invent a flawless
+        robot to take part in this heart racing event. This event checks your robot’s speed and its controlling
+        ability to reach the finish line first. This event can have two car racing or multiple cars
+        racing at once. You need to instill your adrenalin levels into your robot to be race
+        past the finish line to success! \n\n
+NOTE:
+Its mandatory to view the rulebook.
+\nRegistration Fee:
+\nRs.300 (for all events except Ranaveera)
+\nRs.2000 (for all events) </string>
+
+    <string name="desc_goalaa">Devoted soccer fan? Ace in robotics? Fusing these two splendid phenomena
+        is the beginning of the much awaited event Goalaa. Build a robot to drive the balls all
+        the way across the field to the goal post in the stipulated time. To add a little spice to the mix,
+        there is an addition of obstacles standing between you and your success. Pave the way to
+        experience the most vivacious event of the technical gala and become the new crowned head by
+        scoring the highest number of goals.\n
+NOTE:
+Its mandatory to view the rulebook.
+\nRegistration Fee:
+\nRs.300 (for all events except Ranaveera)
+\nRs.2000 (for all events) </string>
+
+    <string name="desc_basketball">
+        How to Register your Team
+\n1.Please note that only the captain can register his or her Team.
+\n2.The captain is required to click on the register button in this event page to get his Team ID.
+\n3.The captain is REQUIRED to register his teammates at the time of reporting at the venue for
+        first time and this team should be remained same throughout the tournament. No changes to the team will be encouraged.
+\n4.As the number of slots is limited and all the teams are selected on a First Come-First Serve Basis,
+        it is advised that you register your team as soon as possible with all the required details.
+\nFor any queries contact
+\nNote:
+\nIt\'s mandatory to view rulebook before you register
+\nRegistration Fee: 1000</string>
+
+    <string name="desc_sarvaagami">When we tackle obstacles, we find hidden reserves of courage and
+        resilience we did not know we had. We only need to find them and move on with our lives. 
+        Believing this mantra with all the heart, Roboveda is back with the most nerve wracking 
+        event of the colloquium, Sarvagaami. Water? Check. Loose sand? Check. Dropping altitudes? 
+        Check. You name it, we have it! In this event, we expect your robot to traverse a highly
+        rugged path with many obstacles similar to the terrains of our planet and reach the finish 
+        line undeterred. Pull up your socks and get ready to experience fun at an all new level!
+\nNOTE:
+Its mandatory to view the rulebook.
+\nRegistration Fee:
+\nRs.300 (for all events except Ranaveera) 
+\nRs.2000 (for all events) </string>
+
+    <string name="desc_yoddha">Taking thrill to an all new level, Yoddhha has redefined the arena of
+        warrior-ship. This nerve-wrecking event is certainly not for the faint hearted ones or for
+        feeble robots. Flaunt your robot\'s strength by moving massive weights and fighting away all
+        the opponents standing in your way. Use all your creativity to bring in new types of weapons
+        to crush your combatant and stay in the arena till the very end. Proven to be the most 
+        entertaining event of the fest, Yoddhha is all set to rewrite the history of the greatest
+        battles ever fought!
+\nNOTE:
+\nIts mandatory to view the rulebook.
+\nRegistration Fee:
+\nRs.300 (for all events except Ranaveera) 
+\nRs.2000 (for all events) </string>
+    
+    <string name="desc_lakshman">The most versatile event of the fest is all set to make a huge 
+        comeback this year! In this event, you will be thrown into a maze of challenges like broken 
+        lines, sharp turns and matrix patterns. Build an autonomous robot to traverse on the lines
+        and come out of the labyrinth unstopped and unscathed. Pull out the wires and pursue the lines 
+        to emerge as the winner of this event!
+NOTE:\n
+\nIts mandatory to view the rulebook.
+\nRegistration Fee:
+\nRs.300 (for all events except Ranaveera) 
+\nRs.2000 (for all events) </string>
+    
+    <string name="desc_vistaar">Future potential of brain chips is limitless after man controls robot arm. 
+        Utilize the technology and your artistry to carry out the tasks faster. Make a sturdy 
+        robotic arm that is capable of performing all the tasks with accuracy. Debug the problem 
+        statement to frame an unopposed robot to conquer the arena and we will ‘hand’ over the crown 
+        to you!\n
+NOTE:
+\nIts mandatory to view the rulebook.
+\nRegistration Fee:
+\nRs.300 (for all events except Ranaveera) 
+\nRs.2000 (for all events) </string>
+    
+    
+    <string name="desc_samvidhitha">Get set to take on the new epoch of robot treasure hunt by 
+        locating all the mints hidden in the sand. Samviditha is a rip-roaring event testing your 
+        senses. Build a robot that is exceptional enough to move in the sand and search all around. 
+        Remember, it is not about having senses, but what you do with them, catches on the grand slam.
+        Step ahead to control your robots perfectly to seek the hidden gems to blossom.
+\nNOTE:
+\nIts mandatory to view the rulebook.
+\nRegistration Fee:
+\nRs.300 (for all events except Ranaveera) 
+\nRs.2000 (for all events)</string>
+  
+    <string name="desc_niyantrana">Smart phone gaming is the most well received technical entertainment 
+        of the era. To multiply this entertainment further, we challenge you to contrive robots which
+        can be controlled by gestures through accelerometers. Create a space for yourself in this smart 
+        world by taking your robot into a trance and guiding it to victory. Gear up to demonstrate
+        your proficiency and become the monarch of the event Niyantrana!
+\nNOTE:
+\nIts mandatory to view the rulebook.
+\nRegistration Fee:
+\nRs.300 (for all events except Ranaveera) 
+\nRs.2000 (for all events) </string>
+   
+    <string name="desc_vidhyuteen">Electro-less is the new spectacular idea of the generation. 
+        Controlled stimulation with hydraulics will be implored in this mind-boggling event.
+        Use the power of fluids to make your robot traverse a distance and do specified tasks. 
+        An event dedicated to help the nation harness new ideas of energy sources and eradicate 
+        the problem of power failures by tapping the potential of the young minds of the country, 
+        Vidhyutheen is our pride and joy!
+\nNOTE
+\nIts mandatory to view the rulebook.
+\nRegistration Fee:
+\nRs.300 (for all events except Ranaveera) 
+\nRs.2000 (for all events) 
+</string>
+    
+    
+    <string name="desc_jaladhmaatra">Defining the very sense of zeal, water racing events have
+        never been so much fun. Roll out the red carpet to Jaladmatra, the aqua robotics event
+        of the fest. Make your robot weight efficient to glide through the water and perfect enough
+        to shoot at the targets with water. Overpower all the hindrances that come in your way and
+        rush to the finish line in the minimal span. Put in all your expertise of robotics to survive
+        the might of water!
+\nNOTE
+\nIts mandatory to view the rulebook.
+\nRegistration Fee:
+\nRs.300 (for all events except Ranaveera)
+\nRs.2000 (for all events) </string>
+
+    <string name="desc_drishti">Bowing to the greatest gift ever bestowed upon the mankind,
+        Drishti is our salute to the power of vision. Image processing through programming is
+        the key to this awe- inspiring happening. Be a part of this unique challenge by programming
+        your vision sensing robot to distinguish all the hues accurately. A brainchild of TRC, this
+        event allows your robot to look through your eyes and hypnotize the crowd with its precision.
+        To all the coding geeks out there, it’s time to show your skill and walk away with the trophy!
+\nNOTE
+\nIts mandatory to view the rulebook.
+\nRegistration Fee:
+\nRs.300 (for all events except Ranaveera)
+\nRs.2000 (for all events) </string>
+
+    <string name="desc_paperpresentation">The complete abstract and hard copies of the paper must
+        be submitted under the IEEE standard format ONLY
+\nInstructions for selected papers:
+
+\nParticipants should come to the venue half an hour in advance for their slots.
+\nParticipants should bring two hard copies of their papers in IEEE FORMAT.
+\nParticipants should bring their PowerPoint presentation in 97-2003 formats.
+\nNOTE: Its mandatory to view the rulebook before registartion.
+
+\nLast day for submission of abstract is 21 September 2016
+\nRegistration Fee:
+\nRs. 200 (for 1 member)
+\nRs. 300 (for 2 members)</string>
+
+    <string name="desc_posterpresentation">POSTER PRESENTATION
+
+The complete abstract and hard copies of the poster must be submitted under the IEEE standard format ONLY
+Instructions for selected posters:
+
+\nParticipants should come to the venue half an hour in advance for their slots.
+\nParticipants should bring two hard copies of their papers in IEEE FORMAT.
+\nParticipants should bring their PowerPoint presentation in 97-2003 formats.
+\nNOTE: Its mandatory to view the rulebook before registartion.
+\nLast day for submission of abstract is 21 September 2016
+        \nRegistration Fee:
+
+\nRs. 200 (for 1 member)
+\nRs. 300 (for 2 members)
+</string>
+
+    <string name="desc_projectexpo">The complete abstract and hard copies of the project must be
+        submitted under the IEEE standard format ONLY
+
+\nNOTE: Its mandatory to view the rulebook before registartion.
+
+\nLast day for registartion is 21 September 2016
+\nRegistration Fee:
+\nRs.200 (for 1 member)
+\nRs.300 (for 2 member)
+</string>
+
+<string name="desc_football">How to Register your Team
+\n1.Please note that only the captain can register his or her Team.
+\n2.The captain is required to click on the register button in this event page to get his Team ID.
+\n3.The captain is REQUIRED to register his teammates at the time of reporting at the venue for first
+    time and this team should be remained same throughout the tournament. No changes to the team will be encouraged.
+\n4.As the number of slots is limited and all the teams are selected on a First Come-First Serve Basis,
+    it is advised that you register your team as soon as possible with all the required details.
+For any queries contact
+Note:
+\nIt\'s mandatory to view rulebook before you register
+\nRegistration Fee: 1500</string>
+
+    <string name="desc_volleyball">Please note that only the captain can register his or her Team.
+\n1.The captain is required to click on the register button in this event page to get his Team ID.
+\n2.The captain is REQUIRED to register his teammates at the time of reporting at the venue for first time and this team should be remained same throughout the tournament. No changes to the team will be encouraged.
+\n3.As the number of slots is limited and all the teams are selected on a First Come-First Serve Basis, it is advised that you register your team as soon as possible with all the required details.
+\nFor any queries contact
+\nNote:
+\nIt\'s mandatory to view rulebook before you register
+\nRegistration Fee: 1000</string>
+
+    <string name="desc_chess">Please note that only the captain can register his or her Team.
+\n1.The captain is required to click on the register button in this event page to get his Team ID.
+\n2.The captain is REQUIRED to register his teammates at the time of reporting at the venue for first time and this team should be remained same throughout the tournament. No changes to the team will be encouraged.
+\n3.As the number of slots is limited and all the teams are selected on a First Come-First Serve Basis, it is advised that you register your team as soon as possible with all the required details.
+\nFor any queries contact
+\nNote:
+\nIt\'s mandatory to view rulebook before you register
+\nRegistration Fee:
+\nSingle : 150
+\nTeam of 5: 600</string>
+<string name="desc_carroms">Please note that only the captain can register his or her Team.
+\n1.The captain is required to click on the register button in this event page to get his Team ID.
+\n2.The captain is REQUIRED to register his teammates at the time of reporting at the venue for first time and this team should be remained same throughout the tournament. No changes to the team will be encouraged.
+\n3.As the number of slots is limited and all the teams are selected on a First Come-First Serve Basis, it is advised that you register your team as soon as possible with all the required details.
+\nFor any queries contact
+\nNote:
+\nIt\'s mandatory to view rulebook before you register
+\nRegistration Fee:
+\nSingle : 150
+\nTeam of 5: 200</string>
+    
+    <string name="desc_tt">Please note that only the captain can register his or her Team.
+\n1.The captain is required to click on the register button in this event page to get his Team ID.
+\n2.The captain is REQUIRED to register his teammates at the time of reporting at the venue for first time and this team should be remained same throughout the tournament. No changes to the team will be encouraged.
+\n3.As the number of slots is limited and all the teams are selected on a First Come-First Serve Basis, it is advised that you register your team as soon as possible with all the required details.
+\nFor any queries contact
+\nNote:
+\nIt\'s mandatory to view rulebook before you register
+\nRegistration Fee:
+\nSingle: 200
+\nTeam of Two: 500</string>
+
+    <string name="desc_trowball">Please note that only the captain can register his or her Team.
+\n1.The captain is required to click on the register button in this event page to get his Team ID.
+\n2.The captain is REQUIRED to register his teammates at the time of reporting at the venue for first time and this team should be remained same throughout the tournament. No changes to the team will be encouraged.
+\n3.As the number of slots is limited and all the teams are selected on a First Come-First Serve Basis, it is advised that you register your team as soon as possible with all the required details.
+\nFor any queries contact
+\nNote:
+\nIt\'s mandatory to view rulebook before you register
+\nRegistration Fee: 800</string>
+    
+    <string name="prize_vflare">To be updated soon</string>
+    <string name="badrinath">Badrinath</string>
+    <string name="sponum">9966310289</string>
+    <string name="prakyath">Prakyath Mathur</string>
+    <string name="pranum">9573621201</string>
+    <string name="prizes">Exciting Goodies And Prizes are available!!!</string>
+    <string name="hackathon">Hackathon brings the students an opportunity to enhance their coding skills. It provides the students with an opportunity to make virtual existing robots like natasha on hike. The participants will be given training on virtual existing robots and later a competition is conducted based on the given training and winners will be awarded accordingly. NOTE: Its mandatory to view the rulebook before registartion. Registration Fee: Rs.200 (for 2 member)</string>
+    <string name="designerden">War Of Websites: War Of Websites is a good initiative to exhibit your innovative talents. In this competition an output of the website and related information will be disclosed and the website must be created accordingly in the stipulated time and winners will be awarded . Master Of Poster: Master of poster provides an opportunity to exhibit your creative and technical skills. In this competition a topic will be given to the participants and posters to be designed accordingly in the given stipulated time and talent will be certified. Registration Fee: Individual: Rs. 50/- Team of Two: Rs. 70/-</string>
+    <string name="automobile">Automobile quiz is the ultimate destination for anyone who loves automobiles. Automobile quiz is one such step towards inculcating this passion for automobiles and recognizing such talents , a quiz will be conducted and winners will be awarded . Registration fee: Rs 30 -single Rs 50 – Team of two.</string>
+    <string name="biomania">In this event participants will be divided into a group of 4.
+        Each group will be given questions (including questing from all branches life sciences).
+        On solving these questions participants will get a hint to enter the next level.
+        Only 3 teams will be allowed to the next level, where only one will qualify. The finalists will
+        have to solve questions to get to a place or a person. The one coming arriving first to the place
+        or person will win.
+        \nRegistration fee: Rs50/-</string>
+    <string name="codezeal">Code Compile Repeat Round 1: This is an aptitude, C, Java, General Knowledge
+        questions based quiz. Duration: 40-60 min.
+        \nRegistration fee: Rs 30 -single
+        \nRs 50 – Team of two.</string>
+    <string name="loggerheads">The topic will be given on the spot. The participants will be given
+        2 minutes to prepare a speech of 1 minute. The 4 participants will speak in an alternating
+        fashion with a member of the team ‘FOR’ the notion speaking first followed by a member of the
+        team ‘AGAINST’ the notion and so on. (F-A-F-A) The rebuttal will be for 5 minutes after the
+        participants’ speeches. The participants will be judged based on the following criteria
+        – Content, Diction, Intonation, Clarity in thought and speech and most importantly, team work.
+        (Content – How relevant your points are to the topic Diction – Your usage of words and pronunciation Intonation –
+        Voice modulation and how you convey emotions) Use of unparliamentary language will result in loss of points.
+        Participants are expected to maintain proper conduct during the debate. Other general rules are applicable to all participants.
+        The decision of the judging panel shall be final and binding.
+        \nNote: Registration fee : 50/-</string>
+</resources>

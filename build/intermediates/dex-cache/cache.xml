@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\sai\Desktop\App_2016-master\app\build\intermediates\exploded-aar\uk.co.chrisjenx\calligraphy\2.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e653e15e62e8a59ddd76cc7f827bf8bce38ae7bb">
+        <dex dex="C:\Users\sai\Desktop\App_2016-master\app\build\intermediates\pre-dexed\release\uk.co.chrisjenx-calligraphy-2.1.0_51fc8969c134eb702cd2b20dc41bb6f479280d83.jar" />
+    </item>
+    <item
+        jar="C:\Users\sai\Desktop\App_2016-master\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="C:\Users\sai\Desktop\App_2016-master\app\build\intermediates\pre-dexed\release\com.android.support-cardview-v7-23.0.1_82643a70d465ea27e23151512cf1e722d7277cbc.jar" />
+    </item>
+    <item
+        jar="C:\Users\sai\Desktop\App_2016-master\app\build\intermediates\exploded-aar\App_2016-master\mylibrary\unspecified\jars\libs\bolts-android-1.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2a069dbb0c48c2f73b54c408361d086f2411af2e">
+        <dex dex="C:\Users\sai\Desktop\App_2016-master\app\build\intermediates\pre-dexed\release\bolts-android-1.2.1_14ad000fcdc6e780428cb1dd01a4066741d334c0.jar" />
+    </item>
+    <item
+        jar="C:\Users\sai\Desktop\App_2016-master\app\build\intermediates\exploded-aar\App_2016-master\shimmer-android\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a6c064c7e4d7eb346d1ea42e99adaa9f43c38643">
+        <dex dex="C:\Users\sai\Desktop\App_2016-master\app\build\intermediates\pre-dexed\release\App_2016-master-shimmer-android-unspecified_234d7e3426484016556ac1f23a4108684f09254e.jar" />
+    </item>
+    <item
+        jar="C:\Users\sai\Desktop\App_2016-master\app\build\intermediates\exploded-aar\App_2016-master\mylibrary\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="61855dac82ff421de0ee07d779806777b295fd5f">
+        <dex dex="C:\Users\sai\Desktop\App_2016-master\app\build\intermediates\pre-dexed\release\App_2016-master-mylibrary-unspecified_3b955d8030bde726bd3e094717da8e10da13329c.jar" />
+    </item>
+    <item
+        jar="F:\Program Files\AppData\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\sai\Desktop\App_2016-master\app\build\intermediates\pre-dexed\release\support-annotations-23.4.0_8c51ced89816435590760bbe33bce17faaa7c0d2.jar" />
+    </item>
+    <item
+        jar="C:\Users\sai\Desktop\App_2016-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\sai\Desktop\App_2016-master\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-23.4.0_e0c50d3e48a025c6be9655b2e7a3e15dde0e4329.jar" />
+    </item>
+    <item
+        jar="C:\Users\sai\Desktop\App_2016-master\app\build\intermediates\exploded-aar\com.pushbots\pushbots-lib\2.0.13\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="635a77d3f219ad345f4b82dba86e4aabe4f35b94">
+        <dex dex="C:\Users\sai\Desktop\App_2016-master\app\build\intermediates\pre-dexed\release\com.pushbots-pushbots-lib-2.0.13_b66dcbf2750b15631ecc792218e2d3e7685f9081.jar" />
+    </item>
+    <item
+        jar="C:\Users\sai\Desktop\App_2016-master\app\build\intermediates\exploded-aar\com.baoyz.swipemenulistview\library\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8ec8378e8d7aa3104f60823e6350f2728d3609ba">
+        <dex dex="C:\Users\sai\Desktop\App_2016-master\app\build\intermediates\pre-dexed\release\com.baoyz.swipemenulistview-library-1.3.0_9d136d30548a3dae9a45695601f7dccdc0de77a2.jar" />
+    </item>
+    <item
+        jar="C:\Users\sai\Desktop\App_2016-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\sai\Desktop\App_2016-master\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-23.4.0_cfea94aeef5412d3cdb0e08a1a453f4e1993a86f.jar" />
+    </item>
+    <item
+        jar="C:\Users\sai\Desktop\App_2016-master\app\build\intermediates\exploded-aar\com.android.support\palette-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="51518e8e8f97c314a243d9def0ded91d385b6a1e">
+        <dex dex="C:\Users\sai\Desktop\App_2016-master\app\build\intermediates\pre-dexed\release\com.android.support-palette-v7-23.4.0_cb8720f910f76e95b6543f7adc75cb89ac5e9d34.jar" />
+    </item>
+    <item
+        jar="C:\Users\sai\Desktop\App_2016-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\sai\Desktop\App_2016-master\app\build\intermediates\pre-dexed\release\internal_impl-23.4.0_1a524ea41c1738fd25df29e13af8a43b283772ae.jar" />
+    </item>
+    <item
+        jar="C:\Users\sai\Desktop\App_2016-master\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\sai\Desktop\App_2016-master\app\build\intermediates\pre-dexed\release\com.android.support-design-23.4.0_327331109fb1d56e8bce2dbe0af510564d1f8e92.jar" />
+    </item>
+    <item
+        jar="C:\Users\sai\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\6.1.0\63735f48b82bcd24cdd33821342428252eb1ca5a\butterknife-6.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="63735f48b82bcd24cdd33821342428252eb1ca5a">
+        <dex dex="C:\Users\sai\Desktop\App_2016-master\app\build\intermediates\pre-dexed\release\butterknife-6.1.0_c3fcd0ea81a50dd74a2dd69c03ec25eae6e9d714.jar" />
+    </item>
+    <item
+        jar="C:\Users\sai\Desktop\App_2016-master\app\build\intermediates\exploded-aar\App_2016-master\mylibrary\unspecified\jars\libs\Parse-1.10.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4da2492cda5d9de9e91176c5b9d1896132038c3f">
+        <dex dex="C:\Users\sai\Desktop\App_2016-master\app\build\intermediates\pre-dexed\release\Parse-1.10.1_c00e8012db0521dc3f7c5f742c63f5e82e003af8.jar" />
+    </item>
+    <item
+        jar="C:\Users\sai\Desktop\App_2016-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\sai\Desktop\App_2016-master\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-23.4.0_fbd73f2db12154c5b17d6d8aa406e952793a4fc6.jar" />
+    </item>
+    <item
+        jar="C:\Users\sai\Desktop\App_2016-master\app\build\intermediates\exploded-aar\com.oguzdev\CircularFloatingActionMenu\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="607d961caf1a59b6e782724654c1f3229e036c20">
+        <dex dex="C:\Users\sai\Desktop\App_2016-master\app\build\intermediates\pre-dexed\release\com.oguzdev-CircularFloatingActionMenu-1.0.2_cea665f0b95645cef224e9bafe32c6fe30bb170e.jar" />
+    </item>
+    <item
+        jar="C:\Users\sai\Desktop\App_2016-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\Users\sai\Desktop\App_2016-master\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-basement-8.1.0_631631c6a9a06cfd5d9d7cd5be0113c96e2268ad.jar" />
+    </item>
+    <item
+        jar="C:\Users\sai\Desktop\App_2016-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="C:\Users\sai\Desktop\App_2016-master\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-appindexing-8.1.0_e327a150a037bf1e52192b3acb472d7ff97ee334.jar" />
+    </item>
+    <item
+        jar="C:\Users\sai\Desktop\App_2016-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\sai\Desktop\App_2016-master\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-23.4.0_c6f12f2b19d8c70d30cd9f3982414822e61b77ce.jar" />
+    </item>
+    <item
+        jar="C:\Users\sai\Desktop\App_2016-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\sai\Desktop\App_2016-master\app\build\intermediates\pre-dexed\release\com.android.support-recyclerview-v7-23.4.0_bf1118ed4d25c1a57f7542a32452c95e6a653218.jar" />
+    </item>
+
+</items>
